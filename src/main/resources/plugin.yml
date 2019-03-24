@@ -1,0 +1,7 @@
+main: pl.plajer.leaderboardz.Main
+name: LeaderBoardZ
+version: 1.0.0
+api-version: 1.13
+author: Plajer
+website: https://plajer.xyz
+description: Minecraft statistic leaderboards plugin
